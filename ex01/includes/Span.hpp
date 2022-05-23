@@ -7,6 +7,7 @@
 
 #include <iostream>
 #include <list>
+#include <vector>
 
 class Span {
 	public:
@@ -19,6 +20,16 @@ class Span {
 		void	addNumber(int i);
 		int		shortestSpan(void);
 		int		longestSpan(void);
+
+		template <typename Iter>
+		void	addNumber(Iter begin, Iter end)
+		{
+			int	sizeLeft = N_ - list_.size();
+			if (std::distance(begin, end) > sizeLeft)
+				throw std::length_error("You're trying to add too many numbers to the list");
+			else
+				list_.insert(list_.end(), begin, end);
+		}
 
 	private:
 		unsigned int		N_;

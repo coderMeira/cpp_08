@@ -25,7 +25,8 @@ void	Span::addNumber(int	i)
 {
 	if (list_.size() == N_)
 		throw (std::length_error("Vector is already full"));
-	list_.push_back(i);
+	else
+		list_.push_back(i);
 }
 
 int		Span::shortestSpan(void)
