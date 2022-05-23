@@ -9,14 +9,16 @@
 #include <algorithm>
 
 template <typename T>
-void	easyfind(T t, int i)
+typename T::iterator	easyfind(T &t, int i)
 {
-	int* found = std::find(&t, sizeof(t), i);
+	typename T::iterator	begin = t.begin();
+	typename T::iterator	end = t.end();
+	typename T::iterator	found = std::find(begin, end, i);
 
-	if (found)
-		std::cout << i << " found\n";
-	else
+	if (found == end)
 		throw (" wasn't found\n");
+	std::cout << i << " found\n";
+	return (found);
 }
 #endif
 
