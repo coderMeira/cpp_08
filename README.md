@@ -1,0 +1,12 @@
+# cpp_08
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-01.jpg)
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-02.jpg)
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-03.jpg)
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-04.jpg)
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-05.jpg)
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-06.jpg)
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-07.jpg)
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-08.jpg)
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-09.jpg)
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-10.jpg)
+![Module 08 sheet](https://github.com/coderMeira/cpp_08/blob/master/subject_08/subject_08-11.jpg)
